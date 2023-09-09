@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gastón Capdevila</h1>
 <h3 align="center">A computer engineering student</h3>
 
-- 🌱 I’m currently learning **Databases**
+- 🔭 I’m currently working on **Concurrent programming**
+
+- 🌱 I’m currently learning **Telecommunications, control systems and software quality**
 
 - 📫 How to reach me **gaston.capdevila118@gmail.com**
 
